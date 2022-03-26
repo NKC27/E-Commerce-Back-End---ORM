@@ -8,9 +8,14 @@ We were set the task to create a back-end for an ecommerce site. We had to achie
 
 ```
 -- Install the dependencies - npm i.
--- Then open your MySQL in the terminal and type source db/schema.sql, once this is done then you can quit MySQL taking you back to the terminal.
+
+-- Then open your MySQL in the terminal and type source db/schema.sql, 
+once this is done then you can quit MySQL taking you back to the terminal.
+
 -- You will then need to run the seed via npm run seed.
+
 -- then you can start the server with npm start
+
 ```
 ## Language and usage
 
